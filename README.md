@@ -7,7 +7,7 @@ Cookware Inc. is an imaginary, international cookware company that released the 
 They needed a quick start guide that was affordable to print but colorful, usable by a low-literacy audience, and global-ready. 
 I met these challenges by using spot-color, keeping the FOG index below a 7, and including graphics where appropriate.
 
-## Achy Accountant Persona and Infographic & Email: Assignment 2021
+## Achy Accountant Persona and Email & Infographic: Assignment 2021
 Accounting Done Right is an imaginary accounting company with a number of work-related repetitive stress injuries. 
 I needed to show an audience of certified accountants how set up ergonomic office spaces using the new desks and chairs recommended by, the imaginary, Dr. Steven. 
 To meet this challenge, I created a short email and infographic so that the accountants could set up their new furniture correctly.
