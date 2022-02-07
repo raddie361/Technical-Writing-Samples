@@ -1,7 +1,6 @@
 # Technical-Writing-Samples
-Hi! Welome to my samples page. Below, I'll give you a brief summary of each piece. 
-Note: Each piece has an companion persona. 
-You can also view everything on my [portfolio site](https://radiaz33.wixsite.com/techcomportfolio).
+Hi! Welome to my samples page. I've created these pieces to show a range from giving instructions on using a blender, to installing Skype, to explaining MITRE in a conceptual article. <br>
+Note: Each piece has an companion persona. <br>
 If you have any comments or questions, feel free to creat a pull request.
 
 ## Blender User Guide and Blender Persona: Assignment 2021
@@ -21,5 +20,8 @@ To meet this challenge, I created a short email and infographic so that the acco
 
 This is an unofficial online Skype installation guide that came from my time teaching English in Japan to second-language learners. 
 I wanted to make it accessible for tech novices and low-literacy audiences. To accomplish this, I kept the FOG index below a 7.
+
+## MITRE Concept Document (no persona yet): Unofficial Sample 2021
+This sample is a little different. I created it at the request of an interviewer to explain a software concept. It needed to be simple, clear, and concise, so I wrote for an audience new to software security. I used headers and bulleted lists to break down complex information into easy-to-understand pieces. 
 
 Feedback and inspiration is always appreciated. Thanks for reading!
