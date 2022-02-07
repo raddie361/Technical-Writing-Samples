@@ -9,7 +9,7 @@ Cookware Inc. is an imaginary, international cookware company that released the 
 They needed a quick start guide that was affordable to print but colorful, usable by a low-literacy audience, and global-ready. 
 I met these challenges by using spot-color, keeping the FOG index below a 7, and including graphics where appropriate.
 
-## MITRE Concept Document (no persona): Unofficial Sample 2021
+## MITRE Concept Document (no persona yet): Unofficial Sample 2021
 This sample is a little different. I created it at the request of an interviewer to explain a software concept. It needed to be simple, clear, and concise, so I wrote for an audience new to software security. I used headers and bulleted lists to break down complex information into easy-to-understand pieces. 
 
 ## Email & Infographic and Achy Accountant Persona: Assignment 2021
