@@ -2,6 +2,7 @@
 Hi! Welome to my samples page. Below, I'll give you a brief summary of each piece. 
 Note: Each piece has an companion persona. 
 You can also view everything on my [portfolio site](https://radiaz33.wixsite.com/techcomportfolio).
+If you have any comments or questions, feel free to creat a pull request.
 
 ## Blender User Guide and Blender Persona: Assignment 2021
 Cookware Inc. is an imaginary, international cookware company that released the All-In-One Blender. 
